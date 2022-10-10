@@ -1,0 +1,36 @@
+{
+    "contacts": {
+        "hostel": [
+            {
+                "name": "John Doe",
+                "designation": "warden",
+                "phone": ""
+            },
+            {
+                "name": "Jane Doe",
+                "designation": "warden",
+                "phone": ""
+            },
+            {
+                "name": "John Smith",
+                "designation": "warden",
+                "phone": ""
+            }
+        ],
+        "doctors": [
+            {
+                "name": "Dr. John Doe",
+                "designation": "warden",
+                "phone": ""
+            },
+            {
+                "name": "Dr. John Doe",
+                "designation": "warden",
+                "phone": ""
+            }
+
+        ]
+    }
+}
+
+    

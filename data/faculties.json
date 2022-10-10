@@ -1,0 +1,14 @@
+{
+    "faculty": [
+        {
+            "img-url": "",
+            "name": "John Doe",
+            "department": "Computer Science",
+            "sitting_position": "",
+            "email": "",
+            "linkedin": "",
+            "website": "",
+            "about": ""
+        }
+    ]
+   }
