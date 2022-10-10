@@ -223,5 +223,101 @@
             "name": "Breads",
             "cost": "30"
         }
-    ]   
+    ],
+    "Mazedar Lassi": [
+        {
+            "name": "Sweet Lassi",
+            "cost": "50"
+        },
+        {
+            "name": "Mango Lassi",
+            "cost": "50"
+        },
+        {
+            "name": "Butter Milk",
+            "cost": "25"
+        }
+    ],
+     "Milk Shakes": [
+        {
+            "name": "Cold Coffee",
+            "cost": "60"
+        },
+        {
+            "name": "Oreo Shake",
+            "cost": "60"
+        },
+        {
+            "name": "Chiku Shake",
+            "cost": "50"
+        },
+        {
+            "name": "Mango Milk Shake",
+            "cost": "75"
+        }
+    ],
+     "Pizza": [
+        {
+            "name": "Veg Pizza",
+            "cost": "85"
+        },
+        {
+            "name": "Jain Pizza",
+            "cost": "85"
+        },
+        {
+            "name": "Only Cheese Pizza",
+            "cost": "85"
+        },
+        {
+            "name": "Mushroom Pizza",
+            "cost": "90"
+        },
+        {
+            "name": "Aditi Special Pizza",
+            "cost": "90"
+        },
+        {
+            "name": "Schezwan Pizza",
+            "cost": "85"
+        }
+    ],
+     "Starter Chinese": [
+        {
+            "name": "Veg Spring Roll",
+            "cost": "80"
+        },
+        {
+            "name": "Paneer Chilli Dry",
+            "cost": "90"
+        },
+        {
+            "name": "Veg Manchurian Dry",
+            "cost": "70"
+        },
+        {
+            "name": "Veg Crispy",
+            "cost": "70"
+        },
+        {
+            "name": "Veg Lollipop",
+            "cost": "80"
+        },
+        {
+            "name": "Paneer Dragon Roll",
+            "cost": "95"
+        },
+        {
+            "name": "Paneer Pakoda",
+            "cost": "100"
+        },
+        {
+            "name": "Cheese Pakoda",
+            "cost": "140"
+        },
+        {
+            "name": "Paneer Manchurian Dry",
+            "cost": "100"
+        }
+    ]      
 }
