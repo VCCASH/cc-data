@@ -31,52 +31,157 @@
     ],
      "Frankie": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Veg Frankie",
+            "cost": "40"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Schezwan Frankie",
+            "cost": "50"
+        },
+        {
+            "name": "Noodle Frankie",
+            "cost": "50"
+        },
+        {
+            "name": "Paneer Frankie",
+            "cost": "55"
+        },
+        {
+            "name": "Cheese Frankie",
+            "cost": "65"
         }
     ],
      "Fresh Juice": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Mosambi Juice",
+            "cost": "70"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Moramari Juice",
+            "cost": "60"
+        },
+        {
+            "name": "Pineapple Juice",
+            "cost": "60"
+        },
+        {
+            "name": "Cocktail Juice",
+            "cost": "60"
+        },
+        {
+            "name": "Black Grape Juice",
+            "cost": "60"
+        },
+        {
+            "name": "Fresh Lime Water",
+            "cost": "25"
+        },
+        {
+            "name": "Water Melon Juice",
+            "cost": "50"
         }
+       
     ],
      "Grilled": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Veg Sandwich",
+            "cost": "25"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Veg Grilled Sandwich",
+            "cost": "50"
+        },
+        {
+            "name": "Veg Cheese Grilled Sandwich",
+            "cost": "70"
+        },
+        {
+            "name": "Chilli Cheese Toast",
+            "cost": "75"
+        },
+        {
+            "name": "Only Cheese Grilled",
+            "cost": "70"
+        },
+        {
+            "name": "Only Cheese Sandwich",
+            "cost": "60"
+        },
+        {
+            "name": "Toast Sandwich",
+            "cost": "35"
+        },
+        {
+            "name": "Bread Butter",
+            "cost": "15"
+        },
+        {
+            "name": "Toast Butter",
+            "cost": "15"
         }
     ],
      "Hot Beverages": [
         {
-            "name": "Starter",
-            "cost": "20"
+            "name": "Tea",
+            "cost": "10"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Special Tea",
+            "cost": "25"
+        },
+        {
+            "name": "Coffee",
+            "cost": "15"
         }
     ],
      "Lunch": [
         {
-            "name": "Starter",
+            "name": "Lunch(Full)",
+            "cost": "60"
+        },
+        {
+            "name": "Lunch(Half)",
+            "cost": "35"
+        },
+        {
+            "name": "Paneer Butter Masala",
+            "cost": "55"
+        },
+        {
+            "name": "Dal fry",
+            "cost": "45"
+        },
+        {
+            "name": "Dal Rice",
+            "cost": "40"
+        },
+        {
+            "name": "Dal Tadka",
+            "cost": "45"
+        },
+        {
+            "name": "Chana Puri",
+            "cost": "70"
+        },
+        {
+            "name": "Only Puri(2 pcs)",
             "cost": "20"
         },
         {
-            "name": "Breads",
-            "cost": "30"
+            "name": "Chopati(1 pcs)",
+            "cost": "10"
+        },
+        {
+            "name": "Puri Bhaji",
+            "cost": "60"
+        },
+        {
+            "name": "Chinese Combo Lunch",
+            "cost": "90"
+        },
+        {
+            "name": "Jeera Rice",
+            "cost": "55"
         }
     ],
      "Majedar Lassi": [
