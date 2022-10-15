@@ -501,18 +501,6 @@
     "D Wing": [
         {
             "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
-            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/rakesh-chaudhari.png",
-            "name": "Dr. XYZ", 
-            "department": "Mechanical Engineering",
-            "sitting_position" : "C-Wing 1st Floor",
-            "email" : "rakesh.chaudhari@nmims.edu",
-            "linkedin" : "https://www.linkedin.com/in/dr-rakesh-chaudhari-2a441911/",
-            "website": "https://engineering-shirpur.nmims.edu/",
-            "about" : "Head of Mechanical Engineering Department"
-    
-        },
-        {
-            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
             "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/rajesh-verma.png",
             "name": "Rajesh Verma", 
             "department": "Mechanical Engineering",
