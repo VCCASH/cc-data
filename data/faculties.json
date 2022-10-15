@@ -1,14 +1,535 @@
 {
-    "faculty": [
+    "A Wing": [
         {
-            "img-url": "",
-            "name": "John Doe",
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/rakesh-chaudhari.png",
+            "name": "Dr. XYZ", 
+            "department": "Mechanical Engineering",
+            "sitting_position" : "C-Wing 1st Floor",
+            "email" : "rakesh.chaudhari@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/dr-rakesh-chaudhari-2a441911/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Head of Mechanical Engineering Department"
+    
+        }
+    ],
+    "B Wing": [
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/nitin-choubey.png",
+            "name": "Dr. Nitin S. Choubey", 
+            "department":"Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "email" : "nitin.choubey@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/dr-nitin-choubey-97a6813",
+            "website":"https://engineering-shirpur.nmims.edu/",
+            "about" : "Ph.D. in Computer Science Engineering,M. Tech. in Computer Science & Engineering,B.E. in Computer Science & Engineering"
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/radhakrishna-rambola.png",
+            "name": "Dr. Radha Krishna Rambola",
             "department": "Computer Science",
-            "sitting_position": "",
-            "email": "",
-            "linkedin": "",
-            "website": "",
-            "about": ""
+            "sitting_position" : "B-Wing 2nd Floor",
+            "email" : "RadhaKrishna.Rambola@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/radhakrishna-rambola-620504149/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Ph.D. in Computer Science Engineering,M. Tech. in Computer Science & Engineering,B.E. in Computer Science & Engineering"
+        },
+        { 
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/varsha-nenade.png",
+            "name": "Ms. Varsha Nemade", 
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "linkedin":"https://engineering-shirpur.nmims.edu/",
+            "email" : "varsha.nemade@nmims.edu",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Teaching Since Jan 2007"
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/upendra-verma.png",
+            "name": "Mr. Upendra Verma", 
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "linkedin" : "https://www.linkedin.com/in/upendra-verma-4365329/",
+            "email" : "upendra.verma@nmims.edu",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Teaching Since Jan 2007"
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/mayank-sohani.png",
+            "name": "Dr. Mayank Sohani",        
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "linkedin":"https://engineering-shirpur.nmims.edu/",
+            "email" : "Mayank.sohani@nmims.edu",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Member of International Association of Engineers (IAENG), Life Time Member of Indian Society for Technical Education,Member of Computer Society of India."
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/sachin-chavan.png",
+            "name": "Mr. Sachin Chavan", 
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "linkedin" : "https://www.linkedin.com/in/sachinchavance/",
+            "email" : "sachin.chavan@nmims.edu",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Since August 2009 (Teaching)"
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/suraj-patil.png",
+            "name": "Mr. Suraj Patil", 
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "linkedin" : "https://www.linkedin.com/in/suraj-patil-22790a102/",
+            "email" : "suraj.patil@nmims.edu",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Industrial Experience 1 year,Teaching Academic Experience 11 Years"
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/dhananjay-joshi.png",
+            "name": "Mr. Dhananjay Joshi", 
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "linkedin" : "https://www.linkedin.com/in/dhananjay-joshi-49382559/",
+            "email" : "dhananjay.joshi@nmims.edu",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Since January 2010 (Teaching)"
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/bhushan-inje.png",
+            "name": "Mr. Bhushan Inje", 
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "linkedin" : "https://www.linkedin.com/in/bhushan-inje-aab14319/",
+            "email" : "bhushan.inje@nmims.edu",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Since June 2007 (Industry),Since July 2010 (Teaching)"
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/varun-deshmukh.png",
+            "name": "Mr. Varun Deshmukh", 
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "linkedin" : "https://engineering-shirpur.nmims.edu/",
+            "email" : "Varun.deshmukh@nmims.edu",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Working as an assistant professor at SVKM’s NMIMS University since 22nd Feb 2016,Worked as an assistant professor at MIT Aurangabad for 2 years."
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/deepti-barhate.png",
+            "name": "Ms. Deepti Barhate",
+            "departm ent": "Computer Science", 
+            "sitting_position" : "B-Wing 2nd Floor",
+            "email" : "deepti.barhate@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/deepti-barhate-238418201/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Since Jul 2011 (Teaching)"
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/sachin-bhandari.png",
+            "name": "Mr. Sachin Bhandari", 
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "email" : "sachin.bhandari@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/sachin-bhandari-sb/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Since Jan 2013 (Teaching)"
+            
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/shubham-joshi.png",
+            "name": "Dr. Shubham Joshi",
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "email" : "shubham.joshi@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/shubhamjoshi91/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Ph.D. Pursuing (Computer Engineering), M. Tech. (Computer Engineering), B. Tech. (Computer Engineering)"
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/harshal-kotwal.png",
+            "name": "Harshal Kotwal ", 
+            "department": "Computer Science",
+            "sitting_position" : "B-Wing 2nd Floor",
+            "email" : "harshal.kotwal@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/harshal-kotwal-a5b5807b/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Teaching Since Jan 2010"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/abhijeet-dawle.png",
+            "name": "Dr. Abhijeet Dawle ", 
+            "department": "Applied Sciences and Humanities",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "abhijeet.dawle@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/dr-abhijeet-dawle-13622464/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "14+ years work experience"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/bipin-jadhav.png",
+            "name": "Mr. Bipin Jadhav ", 
+            "department": "Applied Sciences and Humanities",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "Bipin.Jadhav@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/bipin-jadhav-865a2422/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Since June 2008 (Teaching)"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/govind-rajput.png",
+            "name": "Dr. Govind Rajput ", 
+            "department": "Applied Sciences and Humanities",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "govind.rajput@nmims.edu",
+            "linkedin" : "https://engineering-shirpur.nmims.edu/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "HOD, Applied Sciences & Humanities"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/prakash-bhagat.png",
+            "name": "Dr. Prakash Bhagat ", 
+            "department": "Applied Sciences and Humanities",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "prakash.bhagat@nmims.edu",
+            "linkedin" : "https://engineering-shirpur.nmims.edu/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Since January 2002 (Teaching)"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/sugam-shivhare.png",
+            "name": "Dr. Sugam Shivhare ", 
+            "department": "Applied Sciences and Humanities",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "Sugam.shivhare@nmims.edu",
+            "linkedin" : "https://engineering-shirpur.nmims.edu/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Since November 2005 (Teaching)"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/vivekanand-bagal.png",
+            "name": " Dr. Vivekanand Bagal", 
+            "department": "Applied Sciences and Humanities",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "vivekanand.bagal@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/dr-vivekanand-bagal-80984086/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "13 Years work experience"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/atul-patil.png",
+            "name": "Mr. Atul Patil", 
+            "department": "Electronics and Telecommunication",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "atul.patil@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/atul-patil-6b064456/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "17+ years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/kiral-saluke.png",
+            "name": "Mr. Kiran Salunke", 
+            "department": "Electronics and Telecommunication",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "kiran.salunke@nmims.edu",
+            "linkedin" : "https://engineering-shirpur.nmims.edu/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "4+ years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/mayank-kothari.png",
+            "name": "Mr. Mayank Kothari", 
+            "department": "Electronics and Telecommunication",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "mayank.kothari@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/mayankkothari28/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "5+ years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/rahul-kosti.png",
+            "name": "Mr. Rahul Koshti", 
+            "department": "Electronics and Telecommunication",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "rahul.koshti@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/rahul-koshti-888982188/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "10+ years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/dhiraj-bhise.png",
+            "name": "Mr. Dhiraj V. Bhise", 
+            "department": "Informaion Technology",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "Dhiraj.Bhise@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/dhiraj-bhise-621650167/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "7 years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/piyush-kumar-soni.png",
+            "name": "Mr. Piyush Kumar Soni", 
+            "department": "Informaion Technology",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "piyushkumar.soni@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/piyush-kumar-soni-7a37201b1/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "09 years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/pratiksha-mishra.png",
+            "name": "Mr. Ritesh Kumar Dhanare", 
+            "department": "Informaion Technology",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "ritesh.dhanare@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/ritesh-dhanare-a100aa77/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "5+ Years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/sonia-relan.png",
+            "name": "Ms. Sonia Relan", 
+            "department": "Informaion Technology",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "sonia.relan@nims.edu",
+            "linkedin" : "https://www.linkedin.com/in/soniarelan4/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "10+ Years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/praveen-landge.png",
+            "name": "Mr. Pravinkumar B. Landge", 
+            "department": "Informaion Technology",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "Pravin.landge@nmims.edu",
+            "linkedin" : "https://engineering-shirpur.nmims.edu/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Head of Information technology department"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/ritesh-dhanare.png",
+            "name": "Mr. Ritesh Kumar Dhanare", 
+            "department": "Informaion Technology",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "ritesh.dhanare@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/ritesh-dhanare-a100aa77/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "5+ Years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/parvin-kumar-loharkar.png",
+            "name": "Praveen Kumar Loharkar", 
+            "department": "Mechanical Engineering",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "praveen.kumar@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/praveenkumarloharkar/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "8+ years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/rajesh-verma.png",
+            "name": "Rajesh Verma", 
+            "department": "Mechanical Engineering",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "Rajesh.vermat@nmims.edu",
+            "linkedin" : "https://engineering-shirpur.nmims.edu/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Since Sept. 2011 (Teaching)"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/rajnish-katarne.png",
+            "name": "Dr. Rajnish Katarne", 
+            "department": "Mechanical Engineering",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "rajnish.katarne.nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/rajnishkatarne/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "19 Years, (Teaching: 12 Industrial: 7)"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/vishal-fegde.png",
+            "name": "Vishal Shaligram Fegade", 
+            "department": "Mechanical Engineering",
+            "sitting_position" : "B-Wing 1st Floor",
+            "email" : "Vishal.fegade@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/vishal-fegade-a44521173/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : " (18 + years) Associate Professor in Mechanical Engineering NMIMS, MPSTME Shirpur Campus"
+    
+        }
+    ],
+    "C Wing": [
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/ashok-panigrahi.png",
+            "name": " CMA (Dr.) Ashok Kumar Panigrahi", 
+            "department": "Applied Sciences and Humanities",
+            "sitting_position" : "C-Wing 1st Floor",
+            "email" : "ashok.panigrahi@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/cma-dr-ashok-panigrahi/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Teaching since 2000"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/sanjay-shrivastava.png",
+            "name": " Dr. Sanjay Shrivastava", 
+            "department": "Applied Sciences and Humanities",
+            "sitting_position" : "C-Wing 1st Floor",
+            "email" : "Sanjay.Shrivastava@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/dr-sanjay-shrivastava-498660172/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Total of 21 years of experience in teaching and training management/engineering students on multidimensional aspects of business communication, managerial communication, professional communication, communication skills focusing their overall development of LSRW skills, adept and skilled in training students on interview skills, and GD-PI training for students successful SIP and Final Placement."
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/rehan-ahmad.png",
+            "name": "Mr. Rehan Ahmad", 
+            "department": "Electronics and Telecommunication",
+            "sitting_position" : "C-Wing 1st Floor",
+            "email" : "rehan.ahmad@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/rehan-ahmad-3a745a83/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "12+ years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/sachin-sonawane.png",
+            "name": "Mr. Sachin Sonawane", 
+            "department": "Electronics and Telecommunication",
+            "sitting_position" : "C-Wing 1st Floor",
+            "email" : "Sachin.Sonawane@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/sachin-sonawane-2a579413b/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "9 years 6 months Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/sunil-choudhari.png",
+            "name": "Mr. Sunil Chaudhari", 
+            "department": "Electronics and Telecommunication",
+            "sitting_position" : "C-Wing 2ND Floor",
+            "email" : "Sunil.chaudhari@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/sunil-chaudhari-4596291a/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "6+ years Teaching"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/suresh-kubvanhi.png",
+            "name": "Mr. Suresh Kurumbanshi", 
+            "department": "Electronics and Telecommunication",
+            "sitting_position" : "C-Wing 1st Floor",
+            "email" : "Suresh.kurumbanshi@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/suresh-kurumbanshi-9633b4b8/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "16+ years Teacing"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/suyog-pande.png",
+            "name": "Mr. Suyog Vinayak Pande", 
+            "department": "Electronics and Telecommunication",
+            "sitting_position" : "C-Wing 1st Floor",
+            "email" : "Suyog.pande@nmims.edu",
+            "linkedin" : "https://engineering-shirpur.nmims.edu/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "7+years-Teaching,1 year-Industrial"
+    
+        },
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/rakesh-chaudhari.png",
+            "name": "Dr. Rakesh Sharad Chaudhari", 
+            "department": "Mechanical Engineering",
+            "sitting_position" : "C-Wing 1st Floor",
+            "email" : "rakesh.chaudhari@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/dr-rakesh-chaudhari-2a441911/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Head of Mechanical Engineering Department"
+    
+        }
+       
+    ],
+    "D Wing": [
+        {
+            "profile-img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile-img.png",
+            "img-url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/rakesh-chaudhari.png",
+            "name": "Dr. XYZ", 
+            "department": "Mechanical Engineering",
+            "sitting_position" : "C-Wing 1st Floor",
+            "email" : "rakesh.chaudhari@nmims.edu",
+            "linkedin" : "https://www.linkedin.com/in/dr-rakesh-chaudhari-2a441911/",
+            "website": "https://engineering-shirpur.nmims.edu/",
+            "about" : "Head of Mechanical Engineering Department"
+    
         }
     ]
-   }
+}
+
+
+
+
+
+
+
+
