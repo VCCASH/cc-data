@@ -1,8 +1,8 @@
 {
     "A Wing": [
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/rakesh-chaudhari.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/rakesh-chaudhari.png",
             "name": "Dr. XYZ", 
             "department": "Mechanical Engineering",
             "sitting_position" : "C-Wing 1st Floor",
@@ -15,8 +15,8 @@
     ],
     "B Wing": [
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/nitin-choubey.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/nitin-choubey.png",
             "name": "Dr. Nitin S. Choubey", 
             "department":"Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -26,8 +26,8 @@
             "about" : "Ph.D. in Computer Science Engineering,M. Tech. in Computer Science & Engineering,B.E. in Computer Science & Engineering"
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/radhakrishna-rambola.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/radhakrishna-rambola.png",
             "name": "Dr. Radha Krishna Rambola",
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -37,8 +37,8 @@
             "about" : "Ph.D. in Computer Science Engineering,M. Tech. in Computer Science & Engineering,B.E. in Computer Science & Engineering"
         },
         { 
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/varsha-nenade.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/varsha-nenade.png",
             "name": "Ms. Varsha Nemade", 
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -48,8 +48,8 @@
             "about" : "Teaching Since Jan 2007"
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/upendra-verma.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/upendra-verma.png",
             "name": "Mr. Upendra Verma", 
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -59,8 +59,8 @@
             "about" : "Teaching Since Jan 2007"
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/mayank-sohani.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/mayank-sohani.png",
             "name": "Dr. Mayank Sohani",        
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -70,8 +70,8 @@
             "about" : "Member of International Association of Engineers (IAENG), Life Time Member of Indian Society for Technical Education,Member of Computer Society of India."
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/sachin-chavan.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/sachin-chavan.png",
             "name": "Mr. Sachin Chavan", 
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -81,8 +81,8 @@
             "about" : "Since August 2009 (Teaching)"
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/suraj-patil.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/suraj-patil.png",
             "name": "Mr. Suraj Patil", 
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -92,8 +92,8 @@
             "about" : "Industrial Experience 1 year,Teaching Academic Experience 11 Years"
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/dhananjay-joshi.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/dhananjay-joshi.png",
             "name": "Mr. Dhananjay Joshi", 
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -103,8 +103,8 @@
             "about" : "Since January 2010 (Teaching)"
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/bhushan-inje.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/bhushan-inje.png",
             "name": "Mr. Bhushan Inje", 
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -114,8 +114,8 @@
             "about" : "Since June 2007 (Industry),Since July 2010 (Teaching)"
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/varun-deshmukh.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/varun-deshmukh.png",
             "name": "Mr. Varun Deshmukh", 
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -125,8 +125,8 @@
             "about" : "Working as an assistant professor at SVKM’s NMIMS University since 22nd Feb 2016,Worked as an assistant professor at MIT Aurangabad for 2 years."
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/deepti-barhate.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/deepti-barhate.png",
             "name": "Ms. Deepti Barhate",
             "department": "Computer Science", 
             "sitting_position" : "B-Wing 2nd Floor",
@@ -136,8 +136,8 @@
             "about" : "Since Jul 2011 (Teaching)"
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/sachin-bhandari.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/sachin-bhandari.png",
             "name": "Mr. Sachin Bhandari", 
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -148,8 +148,8 @@
             
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/shubham-joshi.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/shubham-joshi.png",
             "name": "Dr. Shubham Joshi",
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -159,8 +159,8 @@
             "about" : "Ph.D. Pursuing (Computer Engineering), M. Tech. (Computer Engineering), B. Tech. (Computer Engineering)"
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/computer-science/harshal-kotwal.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/harshal-kotwal.png",
             "name": "Harshal Kotwal ", 
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -171,8 +171,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/abhijeet-dawle.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/applied/abhijeet-dawle.png",
             "name": "Dr. Abhijeet Dawle ", 
             "department": "Applied Sciences and Humanities",
             "sitting_position" : "B-Wing 1st Floor",
@@ -183,8 +183,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/bipin-jadhav.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/applied/bipin-jadhav.png",
             "name": "Mr. Bipin Jadhav ", 
             "department": "Applied Sciences and Humanities",
             "sitting_position" : "B-Wing 1st Floor",
@@ -195,8 +195,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/govind-rajput.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/applied/govind-rajput.png",
             "name": "Dr. Govind Rajput ", 
             "department": "Applied Sciences and Humanities",
             "sitting_position" : "B-Wing 1st Floor",
@@ -207,8 +207,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/prakash-bhagat.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/applied/prakash-bhagat.png",
             "name": "Dr. Prakash Bhagat ", 
             "department": "Applied Sciences and Humanities",
             "sitting_position" : "B-Wing 1st Floor",
@@ -219,8 +219,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/sugam-shivhare.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/applied/sugam-shivhare.png",
             "name": "Dr. Sugam Shivhare ", 
             "department": "Applied Sciences and Humanities",
             "sitting_position" : "B-Wing 1st Floor",
@@ -231,8 +231,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/vivekanand-bagal.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/applied/vivekanand-bagal.png",
             "name": " Dr. Vivekanand Bagal", 
             "department": "Applied Sciences and Humanities",
             "sitting_position" : "B-Wing 1st Floor",
@@ -243,8 +243,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/atul-patil.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/atul-patil.png",
             "name": "Mr. Atul Patil", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "B-Wing 1st Floor",
@@ -255,8 +255,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/kiral-saluke.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/kiral-saluke.png",
             "name": "Mr. Kiran Salunke", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "B-Wing 1st Floor",
@@ -267,8 +267,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/mayank-kothari.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/mayank-kothari.png",
             "name": "Mr. Mayank Kothari", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "B-Wing 1st Floor",
@@ -279,8 +279,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/rahul-kosti.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/rahul-kosti.png",
             "name": "Mr. Rahul Koshti", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "B-Wing 1st Floor",
@@ -291,8 +291,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/dhiraj-bhise.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/it-dept/dhiraj-bhise.png",
             "name": "Mr. Dhiraj V. Bhise", 
             "department": "Informaion Technology",
             "sitting_position" : "B-Wing 1st Floor",
@@ -303,8 +303,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/piyush-kumar-soni.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/it-dept/piyush-kumar-soni.png",
             "name": "Mr. Piyush Kumar Soni", 
             "department": "Informaion Technology",
             "sitting_position" : "B-Wing 1st Floor",
@@ -315,8 +315,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/pratiksha-mishra.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/it-dept/pratiksha-mishra.png",
             "name": "Mr. Ritesh Kumar Dhanare", 
             "department": "Informaion Technology",
             "sitting_position" : "B-Wing 1st Floor",
@@ -327,8 +327,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/sonia-relan.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/it-dept/sonia-relan.png",
             "name": "Ms. Sonia Relan", 
             "department": "Informaion Technology",
             "sitting_position" : "B-Wing 1st Floor",
@@ -339,8 +339,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/praveen-landge.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/it-dept/praveen-landge.png",
             "name": "Mr. Pravinkumar B. Landge", 
             "department": "Informaion Technology",
             "sitting_position" : "B-Wing 1st Floor",
@@ -351,8 +351,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/it-dept/ritesh-dhanare.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/it-dept/ritesh-dhanare.png",
             "name": "Mr. Ritesh Kumar Dhanare", 
             "department": "Informaion Technology",
             "sitting_position" : "B-Wing 1st Floor",
@@ -363,8 +363,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/parvin-kumar-loharkar.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/parvin-kumar-loharkar.png",
             "name": "Praveen Kumar Loharkar", 
             "department": "Mechanical Engineering",
             "sitting_position" : "B-Wing 1st Floor",
@@ -375,8 +375,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/rajesh-verma.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/rajesh-verma.png",
             "name": "Rajesh Verma", 
             "department": "Mechanical Engineering",
             "sitting_position" : "B-Wing 1st Floor",
@@ -387,8 +387,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/rajnish-katarne.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/rajnish-katarne.png",
             "name": "Dr. Rajnish Katarne", 
             "department": "Mechanical Engineering",
             "sitting_position" : "B-Wing 1st Floor",
@@ -399,8 +399,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/vishal-fegde.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/vishal-fegde.png",
             "name": "Vishal Shaligram Fegade", 
             "department": "Mechanical Engineering",
             "sitting_position" : "B-Wing 1st Floor",
@@ -413,8 +413,8 @@
     ],
     "C Wing": [
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/ashok-panigrahi.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/applied/ashok-panigrahi.png",
             "name": " CMA (Dr.) Ashok Kumar Panigrahi", 
             "department": "Applied Sciences and Humanities",
             "sitting_position" : "C-Wing 1st Floor",
@@ -425,8 +425,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/applied/sanjay-shrivastava.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/applied/sanjay-shrivastava.png",
             "name": " Dr. Sanjay Shrivastava", 
             "department": "Applied Sciences and Humanities",
             "sitting_position" : "C-Wing 1st Floor",
@@ -437,8 +437,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/rehan-ahmad.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/rehan-ahmad.png",
             "name": "Mr. Rehan Ahmad", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "C-Wing 1st Floor",
@@ -449,8 +449,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/sachin-sonawane.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/sachin-sonawane.png",
             "name": "Mr. Sachin Sonawane", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "C-Wing 1st Floor",
@@ -461,8 +461,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/sunil-choudhari.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/sunil-choudhari.png",
             "name": "Mr. Sunil Chaudhari", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "C-Wing 2ND Floor",
@@ -473,8 +473,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/suresh-kubvanhi.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/suresh-kubvanhi.png",
             "name": "Mr. Suresh Kurumbanshi", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "C-Wing 1st Floor",
@@ -485,8 +485,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/electronics/suyog-pande.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/suyog-pande.png",
             "name": "Mr. Suyog Vinayak Pande", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "C-Wing 1st Floor",
@@ -497,8 +497,8 @@
     
         },
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/rakesh-chaudhari.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/rakesh-chaudhari.png",
             "name": "Dr. Rakesh Sharad Chaudhari", 
             "department": "Mechanical Engineering",
             "sitting_position" : "C-Wing 1st Floor",
@@ -512,8 +512,8 @@
     ],
     "D Wing": [
         {
-            "profile_img":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/profile_img.png",
-            "img_url":"https://github.com/VCCASH/cc-data/blob/dev/img/faculties/mechanical/rakesh-chaudhari.png",
+            "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/rakesh-chaudhari.png",
             "name": "Dr. XYZ", 
             "department": "Mechanical Engineering",
             "sitting_position" : "C-Wing 1st Floor",
