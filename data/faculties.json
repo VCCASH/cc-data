@@ -38,7 +38,7 @@
         },
         { 
             "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
-            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/varsha-nenade.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/computer-science/varsha-nemade.png",
             "name": "Ms. Varsha Nemade", 
             "department": "Computer Science",
             "sitting_position" : "B-Wing 2nd Floor",
@@ -256,7 +256,7 @@
         },
         {
             "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
-            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/kiral-saluke.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/kiran-saluke.png",
             "name": "Mr. Kiran Salunke", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "B-Wing 1st Floor",
@@ -316,7 +316,7 @@
         },
         {
             "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
-            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/it-dept/pratiksha-mishra.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/it-dept/ritesh-dhanare.png",
             "name": "Mr. Ritesh Kumar Dhanare", 
             "department": "Informaion Technology",
             "sitting_position" : "B-Wing 1st Floor",
@@ -364,7 +364,7 @@
         },
         {
             "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
-            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/parvin-kumar-loharkar.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/pravin-kumar-loharkar.png",
             "name": "Praveen Kumar Loharkar", 
             "department": "Mechanical Engineering",
             "sitting_position" : "B-Wing 1st Floor",
@@ -400,7 +400,7 @@
         },
         {
             "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
-            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/vishal-fegde.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/mechanical/vishal-fegade.png",
             "name": "Vishal Shaligram Fegade", 
             "department": "Mechanical Engineering",
             "sitting_position" : "B-Wing 1st Floor",
@@ -474,7 +474,7 @@
         },
         {
             "profile_img":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/profile_img.png",
-            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/suresh-kubvanhi.png",
+            "img_url":"https://raw.githubusercontent.com/VCCASH/cc-data/dev/img/faculties/electronics/suresh-kubvanshi.png",
             "name": "Mr. Suresh Kurumbanshi", 
             "department": "Electronics and Telecommunication",
             "sitting_position" : "C-Wing 1st Floor",
